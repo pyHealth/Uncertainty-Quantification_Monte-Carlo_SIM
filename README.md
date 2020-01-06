@@ -1,2 +1,2 @@
-# pyHealth_Uncertainty-Quantification_Monte-Carlo_SIM
+# pyHealth project: Uncertainty Quantification Monte-Carlo Simulation
 Uncertainty Quantification in python using Monte-Carlo simulation
